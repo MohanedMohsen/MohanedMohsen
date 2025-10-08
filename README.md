@@ -1,8 +1,9 @@
 <div align="center">
-<br><br>
 
-<!-- ====== Coding GIF ====== -->
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="45%" alt="Coding Animation"/>
+  <br><br>
+
+  <!-- صورة كود -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="45%" alt="coding" />
 
 </div>
 
@@ -10,10 +11,10 @@
 
 ### 🧠 About Me  
 
-💡 A passionate *developer* who loves building creative and modern web experiences.  
-🌱 Currently learning *Web Development* (Front-End & Back-End).  
-🎯 My goal is to become a *Full Stack Developer*.  
-⚡ Always exploring, always improving.
+💡 A passionate *developer* who loves building creative web experiences and solving real-world problems.  
+🌱 Currently learning *Web Development* and exploring advanced *Front-End & Back-End* technologies.  
+🎯 My goal is to become a *Full Stack Developer* capable of delivering powerful, user-friendly applications.  
+⚡ Always curious, always learning.
 
 ---
 
@@ -49,14 +50,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohaned-mohsen-65817a372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=80&section=footer"/>
-
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%" alt="snake animation"/>
+  <br><br>
+  <b>✨ Keep learning. Keep building. Keep growing. ✨</b>
 </div>
