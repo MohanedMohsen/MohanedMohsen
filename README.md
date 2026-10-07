@@ -2,7 +2,7 @@
 
   <br><br>
 
-  <!-- صورة الكود: أبعاد أكبر في العرض والارتفاع -->
+  <!-- صورة الكود المتحركة بأبعاد متناسقة -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" height="380" alt="coding" />
 
   <h1>MOHANED MOHSEN</h1>
@@ -38,11 +38,30 @@
 
 ---
 
-### 🚀 Selected Work
+<div align="center">
 
-- 🔹 **01 &nbsp; [Project Name](https://github.com/MohanedMohsen)** — Short description of the project and tech stack used.
-- 🔹 **02 &nbsp; [Project Name](https://github.com/MohanedMohsen)** — Short description of the project and tech stack used.
-- 🔹 **03 &nbsp; [Project Name](https://github.com/MohanedMohsen)** — Short description of the project and tech stack used.
+### 📊 GitHub Activity & Analytics
+
+<br>
+
+<!-- الكارت الأول: الإحصائيات العامة والكوميتس -->
+<a href="https://github.com/MohanedMohsen">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanedMohsen&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+</a>
+&nbsp;
+<!-- الكارت الثاني: الرسم البياني لتحليل اللغات الأكثر استخداماً -->
+<a href="https://github.com/MohanedMohsen">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanedMohsen&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</a>
+
+<br><br>
+
+<!-- الكارت الثالث: تحليل الاستريك والاستمرارية اليومية -->
+<a href="https://github.com/MohanedMohsen">
+  <img src="https://streak-stats.demolab.com?user=MohanedMohsen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+</div>
 
 ---
 
