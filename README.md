@@ -2,8 +2,8 @@
 
   <br><br>
 
-  <!-- صورة الكود المتحركة -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="45%" alt="coding" />
+  <!-- صورة الكود: أبعاد أكبر في العرض والارتفاع -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" height="380" alt="coding" />
 
   <h1>MOHANED MOHSEN</h1>
   <h3>Full-Stack .NET Developer</h3>
@@ -24,13 +24,17 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+<div align="center">
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,cs,dotnet,visualstudio,vscode,git,github,docker,postman,mysql,azure&perline=8" alt="Languages and Tools" />
-  </a>
-</p>
+### 🛠️ Languages and Tools
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,cs,dotnet,visualstudio,vscode,git,github,docker,postman,mysql,azure&perline=8" alt="Languages and Tools" />
+</a>
+
+</div>
 
 ---
 
@@ -70,7 +74,7 @@
 
 <div align="center">
 
-  <!-- أنيميشن الثعبان على استريكك الحقيقي -->
+  <!-- أنيميشن الثعبان على مساهماتك الحقيقية -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohanedMohsen/MohanedMohsen/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohanedMohsen/MohanedMohsen/output/github-contribution-grid-snake.svg">
