@@ -59,7 +59,7 @@
 &nbsp;
 <!-- الكارت الثاني: الرسم البياني لتحليل توزيع لغات المشاريع -->
 <a href="https://github.com/MohanedMohsen">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanedMohsen&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/MohanedMohsen/MohanedMohsen/main/top-langs-card.svg" height="165" alt="Top Languages" />
 </a>
 
 <br><br>
