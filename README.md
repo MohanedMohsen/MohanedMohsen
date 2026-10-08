@@ -51,16 +51,13 @@
 <img src="https://img.shields.io/badge/Total%20Projects-25%2B-239120?style=for-the-badge&logoColor=white" alt="Total Projects" />
 
 <br><br>
-
 <!-- الكارت الأول: الإحصائيات العامة والكوميتس -->
 <a href="https://github.com/MohanedMohsen">
   <img src="https://github-readme-stats.vercel.app/api?username=MohanedMohsen&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
 </a>
 &nbsp;
-<!-- الكارت الثاني: الرسم البياني لتحليل توزيع لغات المشاريع -->
-<a href="https://github.com/MohanedMohsen">
-  <img src="https://raw.githubusercontent.com/MohanedMohsen/MohanedMohsen/main/top-langs-card.svg" height="165" alt="Top Languages" />
-</a>
+<!-- الكارت الثاني: اللغات الأكثر استخدامًا -->
+<img src="./top-langs-card.svg" height="165" alt="Top Languages" />
 
 <br><br>
 
