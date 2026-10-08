@@ -44,16 +44,11 @@
 
 <br>
 
-<!-- بادجات حية للريبوزيتريز والمشاريع (تتحدث تلقائياً من GitHub API) -->
 <a href="https://github.com/MohanedMohsen?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohanedMohsen&query=%24.public_repos&label=Public%20Repositories&color=512BD4&style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Total%20Projects-25%2B-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="Total Projects" />
-&nbsp;
-<a href="https://github.com/MohanedMohsen?tab=followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMohanedMohsen&query=%24.followers&label=Followers&color=0A66C2&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-</a>
+<img src="https://img.shields.io/badge/Total%20Projects-25%2B-239120?style=for-the-badge&logoColor=white" alt="Total Projects" />
 
 <br><br>
 
@@ -90,24 +85,6 @@
 - 🤖 **→ Exploring AI + .NET**
 - ⚙️ **→ Building backend systems**
 - 📐 **→ Improving system design**
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohaned-mohsen?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mohanedelmaghraby6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/MohanedMohsen" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
 
 ---
 
