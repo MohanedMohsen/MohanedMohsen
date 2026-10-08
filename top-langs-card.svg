@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="195" viewBox="0 0 310 195" role="img" aria-label="Most Used Languages">
+  <rect x="0.5" y="0.5" width="309" height="194" rx="4.5" fill="#1a1b27"/>
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="25" y="38" font-size="18" font-weight="600" fill="#70a5fd">Most Used Languages</text>
+
+    <g font-size="12" font-weight="600" fill="#38bdae">
+      <text x="25" y="76">TypeScript</text>
+      <text x="25" y="102">C#</text>
+      <text x="25" y="128">HTML</text>
+      <text x="25" y="154">JavaScript</text>
+      <text x="25" y="180">C++</text>
+    </g>
+
+    <g>
+      <rect x="100" y="69" width="150" height="7" rx="3.5" fill="#2a2b3d"/>
+      <rect x="100" y="95" width="150" height="7" rx="3.5" fill="#2a2b3d"/>
+      <rect x="100" y="121" width="150" height="7" rx="3.5" fill="#2a2b3d"/>
+      <rect x="100" y="147" width="150" height="7" rx="3.5" fill="#2a2b3d"/>
+      <rect x="100" y="173" width="150" height="7" rx="3.5" fill="#2a2b3d"/>
+
+      <rect x="100" y="69"  width="150"    height="7" rx="3.5" fill="#3178c6"/>
+      <rect x="100" y="95"  width="116.67" height="7" rx="3.5" fill="#178600"/>
+      <rect x="100" y="121" width="50"     height="7" rx="3.5" fill="#e34c26"/>
+      <rect x="100" y="147" width="50"     height="7" rx="3.5" fill="#f1e05a"/>
+      <rect x="100" y="173" width="50"     height="7" rx="3.5" fill="#f34b7d"/>
+    </g>
+
+    <g font-size="12" font-weight="600" fill="#a9b1d6">
+      <text x="260" y="76">36%</text>
+      <text x="260" y="102">28%</text>
+      <text x="260" y="128">12%</text>
+      <text x="260" y="154">12%</text>
+      <text x="260" y="180">12%</text>
+    </g>
+  </g>
+</svg>
